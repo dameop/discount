@@ -1,0 +1,27 @@
+{
+  "name": "discount-codes",
+  "version": "1.0.0",
+  "description": "A collection of discount codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-commerce",
+    "clothes",
+    "discount",
+    "codes",
+    "voucher",
+    "codes",
+    "discount",
+    "coupon",
+    "voucher",
+    "testing",
+    "test",
+    "protein",
+    "shopping"
+  ],
+  "author": "emporium.com.ua",
+  "license": "ISC",
+  "homepage": "https://emporium.com.ua/"
+}
